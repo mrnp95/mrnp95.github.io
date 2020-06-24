@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yusuke Ishimi</title>
+    <title>johndoe</title>
     <link>http://www.example.com/</link>
-    <description>Recent content on Yusuke Ishimi</description>
+    <description>Recent content on johndoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
@@ -45,65 +45,11 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
     </item>
     
     <item>
-      <title>Dummy</title>
-      <link>http://www.example.com/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
-    </item>
-    
-    <item>
-      <title>CoderPortfolioの特徴</title>
-      <link>http://www.example.com/posts/featuresofcoderportfolio.ja/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/featuresofcoderportfolio.ja/</guid>
-      <description>変更点 ShortCode &amp;ldquo;private content&amp;quot;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
-実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。
-リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
-SNSシェアのボタンを追加しました あなたの記事がより影響力を持つようになりました。
-コードのハイライトを変更しました 日本のサービス Qiita のハイライトを参照しました。
-とても優しく美しいハイライトです。
-ヘッダーに影を追加しました より境界線がはっきりしました。
-ShortCode &amp;ldquo;portfolio&amp;quot;を追加しました あなたの作品を綺麗に表示できるようになりました。 実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。</description>
-    </item>
-    
-    <item>
-      <title>Features Of CoderPortfolio</title>
-      <link>http://www.example.com/posts/featuresofcoderportfolio/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/featuresofcoderportfolio/</guid>
-      <description>Change Point &amp;ldquo;private content&amp;rdquo; short code added. It is now possible to communicate your personal hobby and your own content.
-You can use it easily. Please see &amp;ldquo;theme-demo&amp;rdquo; for details and demo.
-An animation of red underline was added to Anchor. The site became a little fun and colorful.
-The button of the SNS share was added. It became to have an influence when writing articles more.
-Changed the color scheme of code highlight.</description>
-    </item>
-    
-    <item>
       <title>Theme Demo</title>
       <link>http://www.example.com/posts/theme-demo/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
-    </item>
-    
-    <item>
-      <title>テーマデモ</title>
-      <link>http://www.example.com/posts/theme-demo.ja/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/theme-demo.ja/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
@@ -154,9 +100,7 @@ Follow the following steps:
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
     <item>
@@ -165,30 +109,11 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/about/</guid>
-      <description>このテーマはhugo-coderを元に作成をしています。
-一見綺麗なポートフォリをサイトですが、より個人的なことも伝えられるようにしました。
-変更点の詳細はブログから、&amp;ldquo;FeaturesOfCoderPortfolio&amp;quot;を見てください。
-それ以外のDEMOのコンテンツに関してはhugo-coderのものです。
-質問や、報告がありましたら、下記からお願いいたします。
- open an issue on GitHub ask me on Twitter   Hugo is a static site engine written in Go.
+      <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
 Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>http://www.example.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/about/</guid>
-      <description>This theme is created based on hugo-coder.
-I made it possible to tell yourself more by my change.
-Please see &amp;ldquo;FeaturesOfCoderPortfolio&amp;rdquo; in the post about the change. Regarding other demo contents, it is hugo-coder&amp;rsquo;s thing.
-Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
- Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:</description>
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
     </item>
     
     <item>
@@ -197,26 +122,7 @@ It makes use of a variety of open source projects including:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/contact/</guid>
-      <description>連絡をとりたいですか? 質問や報告などの連絡は下記からお願いします。
- open an issue on GitHub ask me on Twitter  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/contact/</guid>
-      <description>Want Contact? Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>http://www.example.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <description>Follow me, @johndoe.</description>
     </item>
     
     <item>
@@ -235,29 +141,7 @@ pwd </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/projects/</guid>
-      <description>Portfolio Demo  Coder Portfolio hugo-coderを元に作成しました。
-より自分を伝えられるようにしました。
-   </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/</guid>
-      <description>Portfolio Demo  Coder Portfolio This theme is created based on hugo-coder.
-I made it possible to tell yourself more by my change.
-   </description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>http://www.example.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
@@ -268,15 +152,6 @@ I made it possible to tell yourself more by my change.
       <guid>http://www.example.com/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>http://www.example.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
   </channel>

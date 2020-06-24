@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yusuke Ishimi</title>
+    <title>Posts on johndoe</title>
     <link>http://www.example.com/posts/</link>
-    <description>Recent content in Posts on Yusuke Ishimi</description>
+    <description>Recent content in Posts on johndoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
@@ -45,65 +45,11 @@ This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} =1$ This is text with 
     </item>
     
     <item>
-      <title>Dummy</title>
-      <link>http://www.example.com/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/dummy/</guid>
-      <description>Nada para ver aqui!</description>
-    </item>
-    
-    <item>
-      <title>CoderPortfolioの特徴</title>
-      <link>http://www.example.com/posts/featuresofcoderportfolio.ja/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/featuresofcoderportfolio.ja/</guid>
-      <description>変更点 ShortCode &amp;ldquo;private content&amp;quot;を追加しました 綺麗なサイトを崩さずに、あなたの個人的なコンテンツ（趣味や感情）を簡単に伝えることができます。
-実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。
-リンクに赤い下線のアニメーションを追加しました サイトがよりカラフルに美しくなりました。
-SNSシェアのボタンを追加しました あなたの記事がより影響力を持つようになりました。
-コードのハイライトを変更しました 日本のサービス Qiita のハイライトを参照しました。
-とても優しく美しいハイライトです。
-ヘッダーに影を追加しました より境界線がはっきりしました。
-ShortCode &amp;ldquo;portfolio&amp;quot;を追加しました あなたの作品を綺麗に表示できるようになりました。 実際の動きについては、&amp;ldquo;テーマデモ&amp;quot;をご覧ください。</description>
-    </item>
-    
-    <item>
-      <title>Features Of CoderPortfolio</title>
-      <link>http://www.example.com/posts/featuresofcoderportfolio/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/featuresofcoderportfolio/</guid>
-      <description>Change Point &amp;ldquo;private content&amp;rdquo; short code added. It is now possible to communicate your personal hobby and your own content.
-You can use it easily. Please see &amp;ldquo;theme-demo&amp;rdquo; for details and demo.
-An animation of red underline was added to Anchor. The site became a little fun and colorful.
-The button of the SNS share was added. It became to have an influence when writing articles more.
-Changed the color scheme of code highlight.</description>
-    </item>
-    
-    <item>
       <title>Theme Demo</title>
       <link>http://www.example.com/posts/theme-demo/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
-    </item>
-    
-    <item>
-      <title>テーマデモ</title>
-      <link>http://www.example.com/posts/theme-demo.ja/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/posts/theme-demo.ja/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
@@ -154,9 +100,7 @@ Follow the following steps:
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.example.com/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage   Finishing Touches  Fix Content Clean Up   A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     
   </channel>
