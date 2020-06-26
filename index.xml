@@ -131,12 +131,12 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>Contato</title>
-      <link>https://mrnp95.github.io/contact/</link>
+      <title>Courses</title>
+      <link>https://mrnp95.github.io/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mrnp95.github.io/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <guid>https://mrnp95.github.io/courses/</guid>
+      <description>Courses!!</description>
     </item>
     
     <item>
@@ -159,15 +159,6 @@ pwd </description>
     </item>
     
     <item>
-      <title>Projetos</title>
-      <link>https://mrnp95.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mrnp95.github.io/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
-    <item>
       <title>Second snippet</title>
       <link>https://mrnp95.github.io/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -175,6 +166,15 @@ pwd </description>
       <guid>https://mrnp95.github.io/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
+    </item>
+    
+    <item>
+      <title>TA</title>
+      <link>https://mrnp95.github.io/ta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mrnp95.github.io/ta/</guid>
+      <description>TA</description>
     </item>
     
   </channel>

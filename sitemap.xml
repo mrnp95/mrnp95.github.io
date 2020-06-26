@@ -146,15 +146,11 @@
   </url>
   
   <url>
-    <loc>https://mrnp95.github.io/contact/</loc>
+    <loc>https://mrnp95.github.io/courses/</loc>
   </url>
   
   <url>
     <loc>https://mrnp95.github.io/snippets/first/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mrnp95.github.io/projects/</loc>
   </url>
   
   <url>
@@ -167,6 +163,10 @@
   
   <url>
     <loc>https://mrnp95.github.io/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrnp95.github.io/ta/</loc>
   </url>
   
 </urlset>
